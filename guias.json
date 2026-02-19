@@ -1,12 +1,6 @@
 {
   "guias": [
     {
-      "id": "ejemplo-1",
-      "titulo": "Guía de Hipertensión Arterial",
-      "descripcion": "Resumen de criterios diagnósticos, tratamiento y seguimiento.",
-      "url": "https://www.dropbox.com/scl/fi/egaj7j3d6mqk1lopod4oc/Guia-Hipertensi-n-Arterial-Clinicos.pdf?rlkey=go3vt1w0z554hh6p8acpp5jt6&st=9tnn1t91&dl=1"
-    },
-    {
       "id": "ejemplo-2",
       "titulo": "Guía de Colecistitis",
       "descripcion": "Inflamación de vesícula biliar: diagnóstico y manejo.",
