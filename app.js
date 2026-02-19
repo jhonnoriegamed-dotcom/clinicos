@@ -1,6 +1,36 @@
 (function () {
   var grid = document.getElementById('materias-grid');
-  if (!grid) grid = null;
+
+  // Mismas materias que MainActivity (botones de la app), en español
+  var MATERIAS_INICIO = [
+    'General', 'Anatomía', 'Cardiología', 'Cardiovascular', 'Cirugía', 'Embriología',
+    'Fisiología', 'Fisiopatología', 'Gastroenterología', 'Gineco-Obstetricia', 'Histología',
+    'Medicina Interna', 'Neurología', 'Neumonología', 'Odontología', 'Oftalmología',
+    'Pediatría', 'Psiquiatría', 'Traumatología', 'Urología', 'Microbiología',
+    'Otorrinolaringología', 'Endocrinología', 'Farmacología', 'Parasitología',
+    'Casos Clínicos', 'Verdadero/Falso'
+  ];
+
+  function renderMateriasInicio() {
+    if (!grid) return;
+    grid.innerHTML = '';
+    MATERIAS_INICIO.forEach(function (nombre) {
+      var a = document.createElement('a');
+      a.className = 'materia-card materia-btn';
+      a.href = '#estudiar';
+      a.setAttribute('data-page-link', 'estudiar');
+      a.innerHTML = '<p class="materia-titulo">' + nombre + '</p>';
+      a.addEventListener('click', function (e) {
+        e.preventDefault();
+        if (typeof showPage === 'function') showPage('estudiar');
+        if (typeof loadGuias === 'function') loadGuias();
+        location.hash = 'estudiar';
+      });
+      grid.appendChild(a);
+    });
+  }
+
+  if (grid) renderMateriasInicio();
 
   function updatePillsDisplay() {
     var el = document.getElementById('pills-count');
@@ -49,47 +79,6 @@
     div.textContent = s;
     return div.innerHTML;
   }
-
-  function renderTemas(temas) {
-    if (!grid) return;
-    grid.innerHTML = '';
-    (temas || []).forEach(function (t) {
-      var card = document.createElement('a');
-      card.className = 'materia-card' + (t.tieneGuia ? ' has-guia' : '');
-      card.href = t.pdfUrl || '#';
-      if (t.pdfUrl) {
-        card.target = '_blank';
-        card.rel = 'noopener';
-      }
-      card.innerHTML =
-        '<p class="materia-titulo">' + escapeHtml(t.titulo) + '</p>' +
-        '<p class="materia-meta">' + escapeHtml(t.descripcion || '') + '</p>' +
-        '<p class="materia-preguntas">' + (t.numPreguntas || 0) + ' preguntas</p>';
-      grid.appendChild(card);
-    });
-  }
-
-  function initTemas() {
-    var temas = (window.TEMAS_DATA && window.TEMAS_DATA.temas) || [];
-    var base = window.ContentPaths ? ContentPaths.temasCatalog() : '';
-
-    if (base) {
-      fetch(base)
-        .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
-        .then(function (data) {
-          if (data && data.temas && data.temas.length) {
-            window.TEMAS_DATA = data;
-            temas = data.temas;
-          }
-          renderTemas(temas);
-        })
-        .catch(function () { renderTemas(temas); });
-    } else {
-      renderTemas(temas);
-    }
-  }
-
-  if (grid) initTemas();
 
   var navLinks = document.querySelectorAll('.nav-link');
   var pages = document.querySelectorAll('.page');

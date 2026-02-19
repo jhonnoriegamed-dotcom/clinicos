@@ -209,6 +209,16 @@ body {
   gap: 12px;
 }
 
+.materias-inicio.materias-grid {
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+}
+
+.materia-card.materia-btn {
+  padding-right: 16px;
+  text-align: center;
+}
+.materia-card.materia-btn .materia-titulo { margin: 0; }
+
 .materia-card {
   display: block;
   background: var(--card-bg);
