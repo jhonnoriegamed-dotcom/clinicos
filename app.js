@@ -78,13 +78,29 @@
       userEl.style.display = 'inline';
       btnLogin.style.display = 'none';
       btnRegister.style.display = 'none';
-      btnLogout.style.display = 'inline-block';
+      btnLogout.style.display = 'block';
     } else {
       userEl.style.display = 'none';
-      btnLogin.style.display = 'inline-block';
-      btnRegister.style.display = 'inline-block';
+      btnLogin.style.display = 'block';
+      btnRegister.style.display = 'block';
       btnLogout.style.display = 'none';
     }
+  }
+
+  // Menú desplegable de 3 puntos (auth)
+  var btnAuthMenu = document.getElementById('btn-auth-menu');
+  var authDropdown = document.getElementById('auth-dropdown');
+  if (btnAuthMenu && authDropdown) {
+    btnAuthMenu.addEventListener('click', function (e) {
+      e.stopPropagation();
+      authDropdown.classList.toggle('open');
+    });
+    document.addEventListener('click', function () {
+      authDropdown.classList.remove('open');
+    });
+    authDropdown.addEventListener('click', function () {
+      authDropdown.classList.remove('open');
+    });
   }
   if (window.AuthService) {
     var loadPromise = AuthService.loadUserDataIntoApp && AuthService.loadUserDataIntoApp();

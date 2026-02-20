@@ -32,9 +32,12 @@
       </div>
       <div class="topbar-auth" id="topbar-auth">
         <span class="topbar-user" id="topbar-user" style="display: none;"></span>
-        <button type="button" id="btn-open-login" class="btn-auth">Iniciar sesión</button>
-        <button type="button" id="btn-open-register" class="btn-auth btn-auth-register">Registrarse</button>
-        <button type="button" id="btn-logout" class="btn-auth btn-auth-logout" style="display: none;">Cerrar sesión</button>
+        <button type="button" id="btn-auth-menu" class="btn-dots" aria-label="Menú">&#x22EE;</button>
+        <div id="auth-dropdown" class="auth-dropdown" aria-hidden="true">
+          <button type="button" id="btn-open-login" class="auth-dropdown-item">Iniciar sesión</button>
+          <button type="button" id="btn-open-register" class="auth-dropdown-item">Registrarse</button>
+          <button type="button" id="btn-logout" class="auth-dropdown-item" style="display: none;">Cerrar sesión</button>
+        </div>
       </div>
     </div>
   </header>
