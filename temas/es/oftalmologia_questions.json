@@ -1,0 +1,620 @@
+{
+  "questions": [
+    {
+        "question": "En la retinopatía diabética de fondo se encuentran:",
+        "options": [
+            "Exudados duros y anormalidades microvasculares intrarreti nianas (IRMA)",
+            "Microaneurismas y exudados duros",
+            "IRMA y microaneurismas",
+            "IRMA y exudados blandos"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La retinopatía diabética de fondo o no proliferativa se caracteriza por la presencia de microaneurismas, que son las lesiones más tempranas, así como hemorragias puntiformes y exudados duros o lipídicos, visibles en el fondo de ojo."
+    },
+    {
+        "question": "En relación a la medición de la agudeza visual tenemos que:",
+        "options": [
+            "La agudeza visual lejana se mide utilizando la cartilla de Rosenbaum",
+            "La agudeza visual expresada en fracción, el denominador indica la distancia a la cual está el paciente de la tabla.",
+            "En la expresión de la agudeza visual lejana el denominador expresa la magnitud del compromiso visual del paciente",
+            "20/40 indica que la línea que usted lee correctamente a los 40 pies (12 m) puede ser leída por una persona con visión normal desde 20 pies (6 m) de distancia."
+        ],
+        "correctAnswer": 4,
+        "explanation": "La agudeza visual Snellen se expresa como una fracción donde el numerador es la distancia a la que el paciente lee la línea (ej. 20 pies) y el denominador es la distancia a la que una persona con visión normal puede leer esa misma línea. Por lo tanto, 20/40 significa que el paciente ve a 20 pies lo que una persona con visión normal ve a 40 pies."
+    },
+    {
+        "question": "¿Histológicamente cómo está constituida la conjuntiva?",
+        "options": [
+            "Epitelio escamoso estratificado no queratinizado y estroma o sustancia propia (tejido fibrovascular)",
+            "Posee tejido conectivo tipo V",
+            "Está formada por queratocitos",
+            "Ninguna de las anteriores"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La conjuntiva está compuesta histológicamente por un epitelio escamoso estratificado no queratinizado, que recubre su superficie, y una sustancia propia o estroma subyacente, la cual es un tejido fibrovascular que contiene vasos sanguíneos, linfáticos y células inmunes, proporcionando nutrición y soporte."
+    },
+    {
+        "question": "CUAL DE ESTAS ESTRUCTURAS NO FORMA PARTE DE LA RETINA NEUROSENSIORAL",
+        "options": [
+            "Membrana limitante interna y capa nuclear interna",
+            "Capa nuclear externa y capa de células ganglionares",
+            "Membrana limitante externa y plexiforme externa",
+            "Epitelio Pigmentario de la retina"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La retina neurosensorial se compone de diez capas, desde la membrana limitante interna hasta la capa de fotorreceptores. El Epitelio Pigmentario de la Retina (EPR) es una capa única que se encuentra por debajo de la retina neurosensorial y es crucial para su función y metabolismo, pero histológicamente se considera distinta de las capas neurales."
+    },
+    {
+        "question": "El SINTOMA característico de una crisis de glaucoma es:",
+        "options": [
+            "Ojo rojo",
+            "Dolor ocular",
+            "Aumento de la tensión ocular",
+            "Visión borrosa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Durante una crisis aguda de glaucoma de ángulo cerrado, el síntoma más característico es el dolor ocular intenso y súbito, a menudo irradiado, acompañado de cefalea, náuseas, vómitos, visión borrosa con halos y ojo rojo. El dolor es el síntoma cardinal que impulsa la búsqueda de atención médica urgente."
+    },
+    {
+        "question": "En una quemadura ocular por álcalis lo primero que debe hacerse es:",
+        "options": [
+            "evaluar agudeza visual",
+            "prescribir esteroides de alta potencia",
+            "lavar profusamente con solución glucosada más cirfacaina",
+            "quitar la ropa y lavar con ringer lactato profusamente"
+        ],
+        "correctAnswer": 4,
+        "explanation": "Ante una quemadura ocular por álcalis, la medida más urgente y vital es el lavado ocular profuso e inmediato con solución salina estéril o Ringer lactato durante al menos 30 minutos. Esto busca diluir y eliminar la sustancia química de la superficie ocular, minimizando el daño tisular continuo y severo. Las demás acciones son secundarias."
+    },
+    {
+        "question": "Hombre de 28 años que cursa con dificultad para ver de cerca y buena agudeza para visión lejana, es probable que su defecto refractivo se deba a:",
+        "options": [
+            "Catarata",
+            "Presbicia",
+            "Miopía",
+            "Hipermetropía"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La hipermetropía (o hiperopía) se caracteriza por la dificultad para enfocar objetos cercanos, aunque la visión lejana puede ser buena debido a la capacidad de acomodación. En un paciente joven como el descrito, la fatiga del mecanismo de acomodación puede manifestarse como dificultad en la visión de cerca y buena visión lejana."
+    },
+    {
+        "question": "Causas de ojo rojo NO doloroso son:",
+        "options": [
+            "Queratitis, Conjuntivitis, Glaucoma",
+            "Cuerpo extraño corneal, uveitis, ulceras, epiescleritis",
+            "conjuntivitis alérgica, pterigion, meibomitis, uveítis cronica",
+            "Pinguecula, conjuntivitis alérgica, uveítis aguda, escleritis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La conjuntivitis alérgica se manifiesta con picor y enrojecimiento, no dolor. Un pterigion es una lesión benigna que usualmente no es dolorosa. La meibomitis puede causar disconfort, pero raramente dolor agudo. La uveítis crónica puede ser asintomática o presentar molestias leves, a diferencia de la uveítis aguda que es dolorosa."
+    },
+    {
+        "question": "Los siguientes musculos son inervados por el III par, EXCEPTO:",
+        "options": [
+            "recto inferior, recto interno, recto superior",
+            "recto superior, constrictor de la pupila, elevador parpado superior",
+            "recto medio, recto inferior, oblicuo inferior",
+            "recto superior, fibras radiales del iris, elevador parpado superior"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El tercer par craneal (nervio oculomotor) inerva la mayoría de los músculos extraoculares y el esfínter de la pupila (constrictor). Sin embargo, las fibras radiales del iris (músculo dilatador de la pupila) están inervadas por el sistema nervioso simpático, no por el III par craneal, por lo tanto, es la excepción."
+    },
+    {
+        "question": "La primera causa de ceguera reversible en latinoamerica es:",
+        "options": [
+            "LASIK por Miopia magna",
+            "Glaucoma Absoluto",
+            "Catarata",
+            "Desprendimiento de retina total"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La catarata es la principal causa de ceguera reversible a nivel mundial y en Latinoamérica. Consiste en la opacificación del cristalino, lo que deteriora progresivamente la visión, pero puede ser tratada eficazmente mediante cirugía, restaurando la visión en la mayoría de los casos."
+    },
+    {
+        "question": "La triada de glaucoma congénito es:",
+        "options": [
+            "ojo rojo, presión alta, dolor",
+            "fotofobia, epifora, buftalmo",
+            "presión alta, fotofobia, buftalmo",
+            "dolor, ojo rojo, epifora"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La triada clásica de presentación del glaucoma congénito primario incluye fotofobia (sensibilidad a la luz), epífora (lagrimeo excesivo) y buftalmo (agrandamiento del globo ocular debido al aumento de la presión intraocular en un ojo infantil con esclera distensible, característico de esta patología)."
+    },
+    {
+        "question": "En la acomodación ocurre:",
+        "options": [
+            "contracción de musculo ciliar, relajación de la zónula, abombamiento del cristalino, miosis",
+            "contracción de la zonula, relajación del musculo ciliar, disminución diámetro AP del cristalino, miosis",
+            "ninguna de las anteriores",
+            "midriasis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Durante la acomodación para la visión cercana, el músculo ciliar se contrae, lo que relaja las fibras zonulares. Esto permite que el cristalino, por su elasticidad intrínseca, aumente su curvatura (se abombe), incrementando su poder dióptrico. Paralelamente, ocurre miosis para aumentar la profundidad de foco."
+    },
+    {
+        "question": "En relación a la constitución de la pared medial de la órbita, todas son falsas EXCEPTO:",
+        "options": [
+            "apófisis ascendente del maxilar superior, cara externa del cuerpo del esfenoides, hueso lagrimal, hueso plano del etmoides",
+            "apófisis orbitaria del malar, cara externa del cuerpo del esfenoides, hueso lagrimal, hueso plano del etmoides.",
+            "apófisis orbitaria del palatino, cara externa del esfenoides, hueso lagrimal, hueso etmoides",
+            "lamina orbitaria del frontal , cara externa del cuerpo del esfenoides, hueso lagrimal, hueso plano del etmoides"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La pared medial de la órbita está formada principalmente por la apófisis frontal del maxilar (apófisis ascendente del maxilar superior), el hueso lagrimal y la lámina papirácea del hueso etmoides (hueso plano del etmoides). Una pequeña parte del cuerpo del esfenoides también contribuye. Aunque la descripción del esfenoides puede ser mejorable, esta opción incluye la mayoría de los componentes correctos."
+    },
+    {
+        "question": "CON RESPECTO A LOS CONOS CUAL ES LA FALSA",
+        "options": [
+            "Existen conos sensibles a luz roja, azul y verde",
+            "Son responsables de la visión de colores",
+            "Se encuentran en mayor número en la periferia retiniana",
+            "Los conos azules tienen la más alta sensibilidad"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Los conos son los fotorreceptores responsables de la visión del color y la alta agudeza visual. Se encuentran densamente concentrados en la fóvea (centro de la mácula) y su número disminuye significativamente hacia la periferia retiniana, donde predominan los bastones. Por lo tanto, la afirmación es falsa."
+    },
+    {
+        "question": "CON RESPECTO A LAS INSERCIONES Del VITREO CUAL ES CIERTA.",
+        "options": [
+            "Ora serrata, cuerpo ciliar y nervio óptico",
+            "Base del vítreo , peripapilar , perivascular y perifoveolar",
+            "Coriocapilaris , macula y ora serrata",
+            "EPR , nervio óptico y fóvea"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Las principales inserciones firmes del vítreo se encuentran en la base del vítreo (que abarca la ora serrata y el cuerpo ciliar), la región peripapilar alrededor del nervio óptico, a lo largo de los vasos sanguíneos retinianos (perivascular) y en la fóvea (perifoveolar). Estas son las zonas de mayor adhesión del vítreo."
+    },
+    {
+        "question": "CON RESPECTO A LA VASCULARIZACIÓN RETINIANA CUAL ES LA CIERTA",
+        "options": [
+            "Arteria central de retina , coriocapilaris y vena central de la retina",
+            "Arterias vorticosas, arteria oftálmica y y ramas venosas nasales y temporales",
+            "Arteria oftálmica, vena central de la retina, y arterias marginales",
+            "B y C son ciertas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La retina recibe su irrigación de dos fuentes: la arteria central de la retina, que irriga las capas internas, y la coriocapilaris, que nutre las capas externas de la retina, incluyendo la fóvea. La vena central de la retina drena la sangre del sistema arterial retiniano, haciendo esta opción la más completa."
+    },
+    {
+        "question": "CON RESPECTO A LA MACULA CUAL ES CIERTA",
+        "options": [
+            "Su porción central fóvea mide 3.0",
+            "Mide aproximadamente 3.5 mm",
+            "La fóvea esta irrigada por la coriocapilaris",
+            "Se extiende desde la arcada vascular superior a periferia retiniana inferior"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La fóvea, que es la porción central de la mácula y el área de máxima agudeza visual, carece de vasos sanguíneos retinianos. Su nutrición y oxigenación provienen exclusivamente de la coriocapilaris, una capa vascular densa de la coroides situada inmediatamente debajo de ella."
+    },
+    {
+        "question": "Pasa por fuera del anillo de Zin Excepto:",
+        "options": [
+            "Cuarto Nervio Craneal",
+            "Nervio Frontal",
+            "Nervio Lagrimal",
+            "Nervio Nasociliar"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El cuarto nervio craneal (troclear), el nervio frontal y el nervio lagrimal pasan a través de la fisura orbitaria superior, pero por fuera del anillo tendinoso común (de Zinn). El nervio nasociliar, en cambio, pasa a través de la fisura orbitaria superior y *dentro* del anillo tendinoso común, siendo la excepción de las opciones listadas."
+    },
+    {
+        "question": "La profundidad de la Órbita es:",
+        "options": [
+            "25mm",
+            "35 mm",
+            "40mm",
+            "Ninguna de las anteriores"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La profundidad de la órbita en el adulto, medida desde el reborde orbitario anterior hasta el ápex orbitario (vértice), es de aproximadamente 40 a 50 milímetros. De las opciones dadas, 40mm es la respuesta más cercana y comúnmente aceptada para describir la dimensión anteroposterior de la cavidad orbitaria."
+    },
+    {
+        "question": "Las capas de la córnea son:",
+        "options": [
+            "Epitelio, lamina fusca, estroma, descemet y endotelio",
+            "Epitelio, capa de Bowman, estroma, descemet y endotelio",
+            "Epitelio, capa de Bowman, estroma, lamina cribosa y endotelio",
+            "Epitelio, capa de Bowman, sustancia propia, descemet y endotelio"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La córnea está clásicamente compuesta por cinco capas: el Epitelio, la Capa de Bowman, el Estroma (la capa más gruesa), la Membrana de Descemet y el Endotelio. Estas capas trabajan en conjunto para mantener la transparencia y la función óptica de la córnea."
+    },
+    {
+        "question": "En lo que se refiere a la conjuntiva cual es cierta:",
+        "options": [
+            "Se encuentra unida laxamente a la esclera",
+            "Posee 3 capas",
+            "Encontramos gládulas de Moll",
+            "Posee un epitelio queratinizado"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La conjuntiva bulbar se encuentra unida laxamente a la episclera sobre la mayor parte del globo ocular, lo que permite la movilidad del ojo. Esta característica contrasta con su unión más firme en el limbo corneal y los márgenes palpebrales, siendo fundamental para su función y flexibilidad."
+    },
+    {
+        "question": "EN UNA QUEMADURA QUÍMICA OCULAR LO PRIMERO QUE DEBE HACERSE ES:",
+        "options": [
+            "evaluar agudeza visual",
+            "prescribir esteroides de alta potencia",
+            "investigar la naturaleza del agente químico",
+            "quitar la ropa y lavar con solución profusamente"
+        ],
+        "correctAnswer": 4,
+        "explanation": "En una quemadura química ocular, la prioridad absoluta es la irrigación inmediata y profusa del ojo con agua o solución salina. Esto busca diluir y eliminar el agente químico para minimizar el daño, incluso antes de evaluar la agudeza visual o determinar el tipo de sustancia."
+    },
+    {
+        "question": "MUJER DE 42 AÑOS QUE CURSA CON DIFICULTAD PARA VER DE CERCA Y BUENA AGUDEZA PARA VISIÓN LEJANA, ES PROBABLE QUE SU DEFECTO REFRACTIVO SE DEBA A:",
+        "options": [
+            "Catarata",
+            "Presbicia",
+            "Miopía",
+            "Hipermetropía"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La presbicia es la pérdida gradual y relacionada con la edad de la capacidad del ojo para enfocar objetos cercanos, debido a la disminución de la flexibilidad del cristalino y la potencia del músculo ciliar, típicamente comenzando alrededor de los 40 años."
+    },
+    {
+        "question": "LA MIOPÍA SE CARACTERIZA POR:",
+        "options": [
+            "buena visión cerca y mala lejana",
+            "mala visión cerca y buena lejana",
+            "buena visión para lejos y cerca",
+            "ninguna de las anteriores"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La miopía, también conocida como 'vista corta', se caracteriza por la capacidad de ver claramente los objetos cercanos, mientras que los objetos distantes aparecen borrosos. Esto ocurre porque la luz se enfoca delante de la retina."
+    },
+    {
+        "question": "EN LA ACOMODACIÓN OCURRE:",
+        "options": [
+            "contracción de musculo ciliar, relajación de la zónula, abombamiento del cristalino, miosis",
+            "contracción de la zónula, relajación del musculo ciliar, disminución diámetro AP del cristalino, miosis",
+            "ninguna de las anteriores",
+            "midriasis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Durante la acomodación para la visión cercana, el músculo ciliar se contrae, lo que relaja las fibras zonulares. Esta relajación permite que el cristalino aumente su curvatura (se abombe), incrementando su poder dióptrico, acompañado de una miosis pupilar."
+    },
+    {
+        "question": "EN RELACIÓN A LA FORMA DE LA ÓRBITA, SE DICE QUE TIENE FORMA DE:",
+        "options": [
+            "cilindro",
+            "pirámide truncada",
+            "polígono hexagonal",
+            "esférica"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La órbita ocular es una cavidad ósea que alberga el globo ocular y sus anexos. Su forma se describe anatómicamente como una pirámide cuadrangular truncada, con el vértice dirigido posteriormente y la base anteriormente."
+    },
+    {
+        "question": "LA RETINA ES CAPA NEUROSENSORIAL DEL GLOBO OCULAR Y ESTÁ CONSTITUIDA POR:",
+        "options": [
+            "7 capas",
+            "12 capas",
+            "10 capas",
+            "15 capas"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La retina neurosensorial, responsable de la transducción de la luz en señales nerviosas, está clásicamente compuesta por 10 capas histológicas distintivas, cada una con funciones específicas en el procesamiento visual."
+    },
+    {
+        "question": "EN RELACIÓN A LA VISIÓN EL GLOBO OCULAR ES CONSIDERADO:",
+        "options": [
+            "un ente aislado del SNC",
+            "una extensión del sistema nervioso simpático",
+            "una extensión del SNC",
+            "ninguna de las anteriores"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Embriológicamente, la retina se desarrolla a partir de una evaginación del diencéfalo, una parte del cerebro anterior. Por lo tanto, el globo ocular, particularmente la retina, se considera una extensión directa del sistema nervioso central."
+    },
+    {
+        "question": "LA CATARATA ES LA TRADUCCIÓN CLÍNICA DE:",
+        "options": [
+            "falta de lágrimas",
+            "engrosamiento conjuntival que ocluye la córnea",
+            "opacidad del cristalino",
+            "desprendimiento de la córnea"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Una catarata es la opacificación progresiva del cristalino natural del ojo, que normalmente es transparente. Esta opacidad causa una disminución de la agudeza visual y puede conducir a la ceguera si no se trata quirúrgicamente."
+    },
+    {
+        "question": "LA CONDICIÓN CLÍNICA EN LA QUE LAS PUPILAS SON DE DIFERENTES TAMAÑOS SE CONOCE COMO:",
+        "options": [
+            "hipo reactivas",
+            "isocóricas",
+            "heterocrómicas",
+            "anisocóricas"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La anisocoria es el término médico utilizado para describir la condición en la que las pupilas de ambos ojos tienen tamaños diferentes. Puede ser fisiológica o patológica, indicando diversas causas subyacentes."
+    },
+    {
+        "question": "LA CONDICIÓN MÉDICA EN LA QUE SE NACE CON DESVIACIÓN DE AMBOS GLOBOS OCULARES SE CONOCE COMO:",
+        "options": [
+            "estrabismo congénito",
+            "parálisis facial periférica",
+            "ninguna es correcta",
+            "todas son correctas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "El estrabismo congénito o infantil es una condición en la que hay una desalineación de los ojos presente desde el nacimiento o que se manifiesta en los primeros meses de vida, impidiendo que apunten en la misma dirección."
+    },
+    {
+        "question": "LA EXPRESIÓN DE BUENA AGUDEZA VISUAL LEJANA QUE NO AMERITA USO DE LENTES CORRECTIVOS SE EXPRESA COMO:",
+        "options": [
+            "20/400",
+            "20/10",
+            "20/20",
+            "ninguna de las anteriores"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La agudeza visual de 20/20 (o 6/6 en sistema métrico) representa la visión normal y óptima para la mayoría de los individuos, lo que significa que pueden ver claramente a 20 pies lo que una persona con visión normal vería a 20 pies."
+    },
+    {
+        "question": "EN RELACIÓN AL FONDO DE OJO, LAS ESTRUCTURAS QUE SE EVALÚAN SON:",
+        "options": [
+            "humor vítreo y nervio óptico",
+            "humor acuoso",
+            "nervio óptico y cristalino",
+            "solo a y c son correctas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Durante el examen de fondo de ojo (oftalmoscopia), se evalúa la claridad del humor vítreo, la apariencia de la papila del nervio óptico (cabecera del nervio óptico), los vasos sanguíneos retinianos y la mácula. El cristalino y el humor acuoso son estructuras anteriores."
+    },
+    {
+        "question": "EL GLAUCOMA PUEDE PRODUCIR:",
+        "options": [
+            "ceguera irreversible",
+            "ceguera reversible",
+            "lagrimeo y dolor",
+            "tensión baja"
+        ],
+        "correctAnswer": 1,
+        "explanation": "El glaucoma es una enfermedad ocular progresiva que daña el nervio óptico, generalmente asociado a una presión intraocular elevada. Si no se trata, el daño es irreversible y conduce a una pérdida permanente de la visión y ceguera."
+    },
+    {
+        "question": "LA CONDICIÓN CLÍNICA OFTALMOLÓGICA EN LA QUE INDIVIDUO TIENE VISIÓN 20/20 SE CONOCE COMO:",
+        "options": [
+            "ojos sanos",
+            "hipermétrope",
+            "présbita",
+            "emétrope"
+        ],
+        "correctAnswer": 4,
+        "explanation": "Un individuo emétrope es aquel que posee una refracción ocular normal, lo que significa que puede enfocar los rayos de luz paralelos directamente sobre la retina sin necesidad de corrección óptica, resultando en una visión 20/20."
+    },
+    {
+        "question": "EL SÍNTOMA CARDINAL DE LA CONJUNTIVITIS BACTERIANA:",
+        "options": [
+            "secreción mucopurulenta y dolor",
+            "sensación de cuerpo extraño y lagrimeo",
+            "todas son falsas",
+            "todas son correctas"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La conjuntivitis bacteriana se caracteriza típicamente por una secreción mucopurulenta, sensación de cuerpo extraño, lagrimeo, irritación ocular y enrojecimiento. Ambas opciones 'a' y 'b' describen síntomas cardinales y comunes de esta condición."
+    },
+    {
+        "question": "En lo referente a la órbita es cierta:",
+        "options": [
+            "Es una cavidad ósea ubicada a cada lado de la nariz con forma de pirámide truncada",
+            "Los huesos que la conforman son 5",
+            "Posee un vértice anterior",
+            "A través del canal infraorbitario pasa el nervio zigomático"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La órbita es una cavidad ósea con forma de pirámide truncada que se encuentra a cada lado de la nariz. Está compuesta por siete huesos y su vértice es posterior, no anterior, lo que hace incorrectas las otras opciones."
+    },
+    {
+        "question": "En cuanto a los músculos extraoculares:",
+        "options": [
+            "Son 6: recto superior, recto inferior, recto lateral, recto medial, oblicuo superior, oblicuo inferior",
+            "El recto medio es el músculo más largo",
+            "Los músculos rectos se insertan en el globo ocular a distancias progresivas del limbo esclerocorneal en sentido anti horario",
+            "Todas las anteriores"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Existen seis músculos extraoculares que controlan el movimiento del globo ocular: cuatro rectos (superior, inferior, medial, lateral) y dos oblicuos (superior, inferior). Esta lista es anatómicamente correcta, a diferencia de las otras afirmaciones."
+    },
+    {
+        "question": "Los valores normales de la presión intraocular son:",
+        "options": [
+            "15-30 mmHg",
+            "10-21 mmHg",
+            "30-40 mmHg",
+            "≥40 mmHg"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La presión intraocular (PIO) normal se sitúa típicamente entre 10 y 21 milímetros de mercurio (mmHg). Valores fuera de este rango pueden indicar la presencia de patologías como el glaucoma."
+    },
+    {
+        "question": "Cuál de las siguientes patologías no produce ojo rojo:",
+        "options": [
+            "Conjuntivitis bacteriana",
+            "Uveitis",
+            "Glaucoma",
+            "Desprendimiento de retina"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La conjuntivitis bacteriana, la uveítis y el glaucoma agudo son causas comunes de ojo rojo. El desprendimiento de retina, en cambio, se manifiesta con síntomas como moscas volantes, destellos de luz o pérdida de campo visual, pero no suele causar enrojecimiento ocular."
+    },
+    {
+        "question": "La primera causa de ceguera reversible en latinoamerica es:",
+        "options": [
+            "LASIK por Miopia magna",
+            "Glaucoma Absoluto",
+            "Catarata",
+            "Desprendimiento de retina total"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La catarata es la causa principal de ceguera reversible a nivel mundial y en América Latina. Afortunadamente, la visión puede restaurarse con una cirugía de cataratas, lo que la convierte en una ceguera reversible."
+    },
+    {
+        "question": "Las capas de la córnea son:",
+        "options": [
+            "Epitelio, lamina fusca, estroma, descemet y endotelio",
+            "Epitelio, capa de Bowman, estroma, descemet y endotelio",
+            "Epitelio, capa de Bowman, estroma, lamina cribosa y endotelio",
+            "Epitelio, capa de Bowman, sustancia propia, descemet y endotelio"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tradicionalmente, la córnea se compone de cinco capas principales: el epitelio, la capa de Bowman, el estroma, la membrana de Descemet y el endotelio. Estas capas trabajan en conjunto para mantener la transparencia y función de la córnea."
+    },
+    {
+        "question": "Cuantos huesos conforman la órbita:",
+        "options": [
+            "5",
+            "3",
+            "2",
+            "7"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La órbita ocular está compuesta por siete huesos distintos: frontal, cigomático, maxilar, etmoides, esfenoides, lacrimal y palatino. Estos huesos forman una estructura protectora para el globo ocular y sus anexos."
+    },
+    {
+        "question": "El estrabismo es:",
+        "options": [
+            "Cualquier desviación del alineamiento ocular hacia cualquier dirección",
+            "Se presenta con pliegue epicanto, puente nasal amplio.",
+            "Se presenta desde el nacimiento",
+            "Ninguna de las anteriores"
+        ],
+        "correctAnswer": 1,
+        "explanation": "El estrabismo se define como una condición en la cual los ojos no están alineados correctamente y apuntan en diferentes direcciones. Puede manifestarse en cualquier momento de la vida y no está intrínsecamente ligado al pliegue epicanto."
+    },
+    {
+        "question": "En cuanto al globo ocular:",
+        "options": [
+            "Está formado por 2 capas",
+            "Tiene un eje antero posterior normal de 22,5 mm",
+            "Está ubicado en la órbita, cuya pared más débil es la lateral",
+            "Todas las anteriores"
+        ],
+        "correctAnswer": 2,
+        "explanation": "El globo ocular tiene una longitud anteroposterior promedio de aproximadamente 22.5 a 24 mm en el adulto. Está formado por tres capas (no dos). La pared más débil de la órbita es la medial, no la lateral."
+    },
+    {
+        "question": "El 3° par craneal o Nervio Motor Ocular Externo inerva:",
+        "options": [
+            "Recto superior y elevador del parpado superior",
+            "Oblicuo superior",
+            "Recto lateral",
+            "Oblicuo inferior, recto medio y recto inferior"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El 'Nervio Motor Ocular Externo' es el sexto par craneal (nervio abducens), no el tercer par. Este nervio inerva exclusivamente el músculo recto lateral, que es responsable de la abducción del ojo. El 3er par (oculomotor) inerva otros músculos."
+    },
+    {
+        "question": "En cuanto a la esclera todas son correctas excepto :",
+        "options": [
+            "Es una estructura densa de colágeno que constituye los 2/6 posteriores del ojo",
+            "Está cubierto por la epiesclera",
+            "Está perforada a unos 3mm medialmente al polo posterior por el orificio escleral posterior por donde pasan el nervio óptico, la arteria y la vena central de la retina",
+            "El orificio anterior de la esclera está cubierto por la córnea"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La esclera es la capa fibrosa externa y densa que constituye los 5/6 posteriores del globo ocular, siendo el 1/6 anterior la córnea. Por lo tanto, la afirmación de que constituye los '2/6' posteriores es incorrecta."
+    },
+    {
+        "question": "En lo referente a la retina es falso :",
+        "options": [
+            "La macula está desarrollada para la visión central y de color",
+            "Toda la retina excepto la macula está mejor desarrollada para la visión periférica y nocturna",
+            "Los bastones y los conos se situan en la capa externa avascular de la retina sensorial",
+            "Forma parte de la cubierta intermedia del globo ocular"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La retina constituye la capa más interna (cubierta interna o neurosensorial) del globo ocular. La cubierta intermedia (o úvea) está formada por la coroides, el cuerpo ciliar y el iris, por lo que la afirmación es falsa."
+    },
+    {
+        "question": "Cuál de las siguientes aseveraciones es correcta :",
+        "options": [
+            "El párpado superior es más grande y menos móvil que el párpado inferior",
+            "Los párpados son pliegues delgados de piel, músculo y tejido fibroso que tienen como función proteger al globo ocular",
+            "El musculo elevador del párpado superior está inervado por el 3° par craneal",
+            "La conjuntiva recubre el borde palpebral."
+        ],
+        "correctAnswer": 3,
+        "explanation": "El músculo elevador del párpado superior es el principal responsable de la apertura palpebral y está inervado por el tercer par craneal (nervio oculomotor). Los párpados protegen el globo ocular y el párpado superior es más móvil."
+    },
+    {
+        "question": "En cuanto a la córnea:",
+        "options": [
+            "Es un tejido transparente, vascularizado con un poder dióptrico de 43D",
+            "Está formada por 4 capas",
+            "La inervación de la córnea la suministra la primera rama del trigémino, mediante las ramas ciliares largas y cortas de los nervios ciliares",
+            "Tiene forma redonda"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La córnea es un tejido altamente inervado, principalmente por la primera rama (oftálmica) del nervio trigémino, a través de los nervios ciliares largos, lo que explica su alta sensibilidad. Es avascular y tiene 5 o 6 capas."
+    },
+    {
+        "question": "En la acomodación ocurre:",
+        "options": [
+            "contracción de musculo ciliar, relajación de la zónula, abombamiento del cristalino, miosis",
+            "contracción de la zonula, relajación del musculo ciliar, disminución diámetro AP del cristalino, miosis",
+            "ninguna de las anteriores",
+            "midriasis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Durante la acomodación para la visión cercana, el músculo ciliar se contrae, lo que relaja las fibras zonulares. Esta relajación permite que el cristalino aumente su curvatura (se abombe), incrementando su poder dióptrico, acompañado de una miosis pupilar."
+    },
+    {
+        "question": "Cuál es el tratamiento de emergencia en una quemadura por álcalis o ácidos:",
+        "options": [
+            "Ocluir y referir",
+            "Colocar antibiótico en gotas y lágrimas artificiales",
+            "Irrigar abundantemente los ojos con solución salina o ringer lactato por 30 minutos, ocluir y referir",
+            "Ninguna de las anteriores"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El tratamiento de emergencia más crucial en quemaduras químicas oculares es la irrigación inmediata y abundante de los ojos con solución salina o Ringer lactato por al menos 30 minutos, antes de cualquier otra intervención o referencia."
+    },
+    {
+        "question": "En relación a la miopía cual es la verdadera :",
+        "options": [
+            "Buena visión para lejos y se corrige con lentes positivas",
+            "La visión de cerca es buena y la visión lejana es mala",
+            "Se corrige con lentes positivas",
+            "Los rayos se enfocan detrás de la retina"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La miopía se caracteriza por una buena visión cercana y mala visión lejana debido a que los rayos de luz se enfocan por delante de la retina, corrigiéndose con lentes negativas (divergentes)."
+    },
+    {
+        "question": "En relación al orzuelo cual es falsa:",
+        "options": [
+            "Nódulo palpebral subcutáneo, bien definido, visible, doloroso, eritematoso",
+            "Debe diferenciarse de la celulitis preseptal",
+            "Puede estar relacionada con la blefaritis",
+            "El tratamiento es exclusivamente quirúrgico"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El tratamiento del orzuelo no es exclusivamente quirúrgico; inicialmente es conservador con compresas tibias y antibióticos tópicos, reservándose la cirugía para casos persistentes o complicados."
+    },
+    {
+        "question": "En relación a la prebicia:",
+        "options": [
+            "Es una condición ocular relacionada con la edad que hace difícil ver las cosas de cerca",
+            "Los rayos de luz provenientes del infinito se enfocan por delante de la retina",
+            "Se corrige con lentes negativas",
+            "Ninguna de las anteriores"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La presbicia es la pérdida progresiva de la capacidad de acomodación del cristalino debido al envejecimiento, lo que dificulta la visión cercana y se corrige con lentes positivas (convergentes)."
+    },
+    {
+        "question": "En cuanto al glaucoma cual es la falsa :",
+        "options": [
+            "Es una neuropatía óptica progresiva con afectación del nervio óptico",
+            "Produce disminución de la agudeza visual",
+            "Es causa de ceguera reversible",
+            "La presión intraocular se mantiene por encima de los 21mmHg"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El glaucoma es una causa de ceguera irreversible porque el daño al nervio óptico es permanente, aunque su progresión puede controlarse con tratamiento para prevenir mayor pérdida visual."
+    }
+  ]
+}

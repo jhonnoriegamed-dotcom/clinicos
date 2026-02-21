@@ -565,6 +565,18 @@
         "#general"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "oftalmologia",
+      "titulo": "Oftalmologia",
+      "descripcion": "Preguntas postgrado oftalmologia",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 56,
+      "etiquetas": [
+        "#general"
+      ],
+      "tieneGuia": false
     }
   ]
 }
